@@ -1,0 +1,131 @@
+employee_id,full_name,department,job_title,salary,hire_date,termination_date,status,manager_id,location,email
+E001,Alice Johnson,Engineering,Senior Software Engineer,120000,2019-03-15,,ACTIVE,E010,New York,alice.johnson@company.com
+E002,Bob Smith,Engineering,Software Engineer,95000,2020-07-01,,ACTIVE,E001,New York,bob.smith@company.com
+E003,Carol White,HR,HR Manager,90000,2018-01-10,,ACTIVE,E020,Chicago,carol.white@company.com
+E004,David Brown,Finance,Financial Analyst,85000,2021-02-14,,ACTIVE,E021,Chicago,david.brown@company.com
+E005,Eva Martinez,Engineering,DevOps Engineer,110000,2020-11-30,,ACTIVE,E010,Austin,eva.martinez@company.com
+E006,Frank Lee,Sales,Sales Manager,105000,2017-05-22,,ACTIVE,E022,San Francisco,frank.lee@company.com
+E007,Grace Chen,Engineering,Data Engineer,115000,2021-06-01,,ACTIVE,E010,New York,grace.chen@company.com
+E008,Henry Wilson,HR,HR Generalist,72000,2022-01-15,,ACTIVE,E003,Chicago,henry.wilson@company.com
+E009,Iris Taylor,Finance,Senior Analyst,98000,2019-09-10,,ACTIVE,E021,Chicago,iris.taylor@company.com
+E010,James Anderson,Engineering,VP Engineering,180000,2016-04-01,,ACTIVE,E030,New York,james.anderson@company.com
+E011,Karen Thomas,Sales,Account Executive,78000,2021-08-20,,ACTIVE,E006,San Francisco,karen.thomas@company.com
+E012,Liam Jackson,Marketing,Marketing Manager,95000,2019-12-01,,ACTIVE,E031,Austin,liam.jackson@company.com
+E013,Mia Harris,Engineering,Junior Developer,70000,2023-01-10,,ACTIVE,E001,New York,mia.harris@company.com
+E014,Noah Martin,Data Science,Data Scientist,125000,2020-03-01,,ACTIVE,E010,Austin,noah.martin@company.com
+E015,Olivia Garcia,Engineering,Software Engineer,92000,2022-05-16,,ACTIVE,E001,New York,olivia.garcia@company.com
+E016,Paul Robinson,HR,Recruiter,65000,2022-09-01,,ACTIVE,E003,Chicago,paul.robinson@company.com
+E017,Quinn Clark,Finance,CFO,220000,2015-01-01,,ACTIVE,E030,Chicago,quinn.clark@company.com
+E018,Rachel Lewis,Sales,Sales Rep,68000,2023-02-01,,ACTIVE,E006,San Francisco,rachel.lewis@company.com
+E019,Sam Walker,Data Science,ML Engineer,132000,2021-10-15,,ACTIVE,E010,Austin,sam.walker@company.com
+E020,Tina Hall,HR,Chief People Officer,175000,2016-06-01,,ACTIVE,E030,Chicago,tina.hall@company.com
+E021,Uma Allen,Finance,Finance Manager,115000,2018-03-12,,ACTIVE,E017,Chicago,uma.allen@company.com
+E022,Victor Young,Sales,VP Sales,165000,2016-08-01,,ACTIVE,E030,San Francisco,victor.young@company.com
+E023,Wendy King,Engineering,QA Engineer,88000,2020-04-20,,ACTIVE,E001,New York,wendy.king@company.com
+E024,Xander Wright,Marketing,Content Strategist,72000,2022-11-01,,ACTIVE,E031,Austin,xander.wright@company.com
+E025,Yara Scott,Engineering,Backend Engineer,105000,2021-03-22,,ACTIVE,E001,New York,yara.scott@company.com
+E026,Zoe Adams,Data Science,Data Analyst,88000,2022-07-18,,ACTIVE,E014,Austin,zoe.adams@company.com
+E027,Aaron Baker,Engineering,Frontend Engineer,98000,2021-09-01,,ACTIVE,E001,New York,aaron.baker@company.com
+E028,Beth Nelson,Sales,Sales Rep,65000,2022-12-05,,ACTIVE,E006,San Francisco,beth.nelson@company.com
+E029,Chris Carter,HR,HR Coordinator,58000,2023-03-20,,ACTIVE,E003,Chicago,chris.carter@company.com
+E030,Diana Mitchell,Executive,CEO,350000,2014-01-01,,ACTIVE,,New York,diana.mitchell@company.com
+E031,Ethan Perez,Marketing,CMO,190000,2017-02-01,,ACTIVE,E030,Austin,ethan.perez@company.com
+E032,Fiona Roberts,Engineering,Staff Engineer,145000,2018-07-15,,ACTIVE,E010,New York,fiona.roberts@company.com
+E033,George Turner,Finance,Accountant,70000,2021-11-01,,ACTIVE,E021,Chicago,george.turner@company.com
+E034,Hannah Phillips,Data Science,Data Engineer,118000,2020-08-10,,ACTIVE,E014,Austin,hannah.phillips@company.com
+E035,Ian Campbell,Sales,Account Manager,82000,2019-05-14,,ACTIVE,E006,San Francisco,ian.campbell@company.com
+E036,Julia Parker,Marketing,SEO Specialist,68000,2022-04-01,,ACTIVE,E031,Austin,julia.parker@company.com
+E037,Kevin Evans,Engineering,SRE,115000,2020-10-01,,ACTIVE,E010,New York,kevin.evans@company.com
+E038,Laura Edwards,HR,L&D Manager,88000,2019-07-22,,ACTIVE,E020,Chicago,laura.edwards@company.com
+E039,Mike Collins,Finance,Tax Analyst,80000,2021-04-15,,ACTIVE,E021,Chicago,mike.collins@company.com
+E040,Nancy Stewart,Data Science,Research Scientist,140000,2019-11-01,,ACTIVE,E014,Austin,nancy.stewart@company.com
+E041,Oscar Sanchez,Engineering,Security Engineer,122000,2020-06-01,,ACTIVE,E010,New York,oscar.sanchez@company.com
+E042,Penny Morris,Sales,Business Dev,95000,2021-01-12,,ACTIVE,E022,San Francisco,penny.morris@company.com
+E043,Quincy Rogers,Marketing,Brand Manager,85000,2020-02-18,,ACTIVE,E031,Austin,quincy.rogers@company.com
+E044,Rose Reed,Engineering,Platform Engineer,108000,2021-07-05,,ACTIVE,E010,New York,rose.reed@company.com
+E045,Steve Cook,Finance,FP&A Analyst,92000,2022-03-01,,ACTIVE,E021,Chicago,steve.cook@company.com
+E046,Teresa Morgan,HR,Benefits Specialist,62000,2023-01-30,,ACTIVE,E020,Chicago,teresa.morgan@company.com
+E047,Ulric Bell,Data Science,BI Developer,95000,2021-05-24,,ACTIVE,E014,Austin,ulric.bell@company.com
+E048,Vivian Murphy,Engineering,Cloud Architect,138000,2019-04-08,,ACTIVE,E010,New York,vivian.murphy@company.com
+E049,Wade Bailey,Sales,Sales Engineer,105000,2020-09-15,,ACTIVE,E022,San Francisco,wade.bailey@company.com
+E050,Xenia Rivera,Marketing,Digital Marketer,74000,2022-08-22,,ACTIVE,E031,Austin,xenia.rivera@company.com
+E051,Yusuf Cooper,Engineering,Embedded Engineer,96000,2021-12-01,,ACTIVE,E010,New York,yusuf.cooper@company.com
+E052,Zelda Richardson,Finance,Controller,130000,2018-10-10,,ACTIVE,E017,Chicago,zelda.richardson@company.com
+E053,Adam Cox,Data Science,Analytics Engineer,112000,2022-02-14,,ACTIVE,E014,Austin,adam.cox@company.com
+E054,Bella Howard,Engineering,Mobile Developer,100000,2021-08-30,,ACTIVE,E001,New York,bella.howard@company.com
+E055,Carl Ward,HR,HRBP,80000,2020-05-11,,ACTIVE,E020,Chicago,carl.ward@company.com
+E056,Daisy Torres,Sales,Inside Sales,60000,2023-04-03,,ACTIVE,E006,San Francisco,daisy.torres@company.com
+E057,Eliot Peterson,Finance,Payroll Specialist,64000,2022-10-17,,ACTIVE,E021,Chicago,eliot.peterson@company.com
+E058,Flora Gray,Data Science,NLP Engineer,128000,2020-12-07,,ACTIVE,E014,Austin,flora.gray@company.com
+E059,Glen Ramirez,Engineering,Infrastructure Eng,109000,2021-02-28,,ACTIVE,E010,New York,glen.ramirez@company.com
+E060,Holly James,Marketing,Product Marketing,88000,2021-04-19,,ACTIVE,E031,Austin,holly.james@company.com
+E061,Ivan Watson,Engineering,Senior SRE,125000,2019-08-05,,ACTIVE,E010,New York,ivan.watson@company.com
+E062,Jade Brooks,HR,Compensation Analyst,76000,2022-06-13,,ACTIVE,E020,Chicago,jade.brooks@company.com
+E063,Kent Kelly,Finance,Treasury Analyst,87000,2020-07-27,,ACTIVE,E021,Chicago,kent.kelly@company.com
+E064,Luna Sanders,Data Science,ML Ops Engineer,130000,2021-11-22,,ACTIVE,E014,Austin,luna.sanders@company.com
+E065,Marco Price,Sales,Enterprise Sales,115000,2020-01-06,,ACTIVE,E022,San Francisco,marco.price@company.com
+E066,Nina Bennett,Engineering,Software Engineer,93000,2022-09-19,,ACTIVE,E001,New York,nina.bennett@company.com
+E067,Owen Wood,Marketing,Growth Hacker,78000,2023-01-23,,ACTIVE,E031,Austin,owen.wood@company.com
+E068,Paula Barnes,Finance,Risk Analyst,90000,2021-06-28,,ACTIVE,E021,Chicago,paula.barnes@company.com
+E069,Quentin Ross,Engineering,Data Engineer,113000,2020-04-13,,ACTIVE,E010,New York,quentin.ross@company.com
+E070,Ruby Henderson,HR,Talent Acquisition,70000,2022-03-07,,ACTIVE,E003,Chicago,ruby.henderson@company.com
+E071,Seth Coleman,Data Science,Data Scientist,120000,2019-10-21,,ACTIVE,E014,Austin,seth.coleman@company.com
+E072,Tara Jenkins,Sales,Channel Manager,98000,2020-11-09,,ACTIVE,E022,San Francisco,tara.jenkins@company.com
+E073,Ursula Perry,Engineering,QA Lead,100000,2019-02-25,,ACTIVE,E001,New York,ursula.perry@company.com
+E074,Vince Powell,Marketing,Social Media Mgr,66000,2023-02-14,,ACTIVE,E031,Austin,vince.powell@company.com
+E075,Willa Long,Finance,Financial Modeler,95000,2021-03-31,,ACTIVE,E021,Chicago,willa.long@company.com
+E076,Xerxes Patterson,Engineering,AI Engineer,140000,2020-08-24,,ACTIVE,E010,New York,xerxes.patterson@company.com
+E077,Yasmin Hughes,HR,DEI Specialist,72000,2022-07-04,,ACTIVE,E020,Chicago,yasmin.hughes@company.com
+E078,Zach Flores,Sales,Sales Ops,80000,2021-09-14,,ACTIVE,E022,San Francisco,zach.flores@company.com
+E079,Aria Washington,Data Science,Statistician,110000,2020-03-18,,ACTIVE,E014,Austin,aria.washington@company.com
+E080,Blake Butler,Engineering,Backend Engineer,102000,2022-01-03,,ACTIVE,E001,New York,blake.butler@company.com
+E081,Cleo Simmons,Finance,Internal Auditor,82000,2021-05-05,,ACTIVE,E017,Chicago,cleo.simmons@company.com
+E082,Duke Foster,Data Science,Data Platform Eng,121000,2020-09-30,,ACTIVE,E014,Austin,duke.foster@company.com
+E083,Echo Gonzales,Engineering,DevOps Engineer,107000,2021-10-11,,ACTIVE,E010,New York,echo.gonzales@company.com
+E084,Faye Bryant,HR,Onboarding Specialist,60000,2023-03-01,,ACTIVE,E003,Chicago,faye.bryant@company.com
+E085,Gabe Alexander,Finance,Budget Analyst,78000,2022-04-25,,ACTIVE,E021,Chicago,gabe.alexander@company.com
+E086,Hana Russell,Sales,Partnerships Mgr,105000,2020-02-03,,ACTIVE,E022,San Francisco,hana.russell@company.com
+E087,Igor Griffin,Engineering,Principal Engineer,155000,2017-11-20,,ACTIVE,E010,New York,igor.griffin@company.com
+E088,Juno Diaz,Marketing,Event Manager,70000,2022-06-01,,ACTIVE,E031,Austin,juno.diaz@company.com
+E089,Knox Hayes,Data Science,Computer Vision Eng,135000,2021-01-18,,ACTIVE,E014,Austin,knox.hayes@company.com
+E090,Lea Myers,Engineering,Software Engineer,90000,2023-02-20,,ACTIVE,E001,New York,lea.myers@company.com
+E091,Milo Ford,Finance,Senior Accountant,88000,2019-06-10,,ACTIVE,E021,Chicago,milo.ford@company.com
+E092,Nora Hamilton,HR,HR Analyst,65000,2022-10-03,,ACTIVE,E003,Chicago,nora.hamilton@company.com
+E093,Ozzy Graham,Sales,SDR,55000,2023-01-09,,ACTIVE,E006,San Francisco,ozzy.graham@company.com
+E094,Pria Sullivan,Data Science,Data Analyst,85000,2022-05-30,,ACTIVE,E014,Austin,pria.sullivan@company.com
+E095,Raj Wallace,Engineering,Site Reliability,111000,2020-07-06,,ACTIVE,E010,New York,raj.wallace@company.com
+E096,Sara Woods,Marketing,PR Manager,80000,2021-08-16,,ACTIVE,E031,Austin,sara.woods@company.com
+E097,Troy Cole,Finance,M&A Analyst,105000,2020-01-27,,ACTIVE,E017,Chicago,troy.cole@company.com
+E098,Uma West,Engineering,Software Engineer,88000,2022-11-14,,ACTIVE,E001,New York,uma.west@company.com
+E099,Valor Jordan,Data Science,AI Researcher,145000,2019-07-08,,ACTIVE,E014,Austin,valor.jordan@company.com
+E100,Wendy Owens,Sales,VP Business Dev,160000,2017-09-25,,ACTIVE,E030,San Francisco,wendy.owens@company.com
+E101,Xavier Banks,HR,HR Director,140000,2016-11-14,,ACTIVE,E020,Chicago,xavier.banks@company.com
+E102,Yolanda Hunter,Finance,VP Finance,195000,2015-03-09,,ACTIVE,E030,Chicago,yolanda.hunter@company.com
+E103,Zane George,Engineering,Software Engineer,91000,2022-08-08,,ACTIVE,E001,New York,zane.george@company.com
+E104,Alma Freeman,Data Science,Data Engineer,116000,2021-07-19,,ACTIVE,E014,Austin,alma.freeman@company.com
+E105,Boris Webb,Marketing,Creative Director,110000,2018-05-14,,ACTIVE,E031,Austin,boris.webb@company.com
+E106,Cara Stone,Sales,Account Executive,74000,2022-02-28,,ACTIVE,E006,San Francisco,cara.stone@company.com
+E107,Dean Olson,Engineering,Backend Engineer,99000,2021-12-13,,ACTIVE,E001,New York,dean.olson@company.com
+E108,Elsa Pierce,HR,Payroll Manager,85000,2019-04-30,,ACTIVE,E020,Chicago,elsa.pierce@company.com
+E109,Finn Floyd,Finance,Financial Advisor,92000,2020-10-22,,ACTIVE,E021,Chicago,finn.floyd@company.com
+E110,Greta Walters,Data Science,Deep Learning Eng,138000,2021-04-07,,ACTIVE,E014,Austin,greta.walters@company.com
+E111,Hugo Duncan,Engineering,Software Engineer,87000,2023-03-15,,ACTIVE,E001,New York,hugo.duncan@company.com
+E112,Iris Snyder,Marketing,UX Writer,68000,2022-09-26,,ACTIVE,E031,Austin,iris.snyder@company.com
+E113,Jax Marsh,Sales,Field Sales Rep,72000,2021-06-07,,ACTIVE,E006,San Francisco,jax.marsh@company.com
+E114,Kira Berry,Data Science,Analytics Manager,132000,2019-12-16,,ACTIVE,E014,Austin,kira.berry@company.com
+E115,Leo Murray,Engineering,CTO,280000,2014-06-01,,ACTIVE,E030,New York,leo.murray@company.com
+E116,Maya Oliver,Finance,Billing Specialist,58000,2023-04-10,,ACTIVE,E021,Chicago,maya.oliver@company.com
+E117,Nash Barnes,HR,Training Coordinator,60000,2022-12-19,,ACTIVE,E020,Chicago,nash.barnes@company.com
+E118,Ora Jensen,Sales,Pre-Sales Consultant,88000,2020-06-15,,ACTIVE,E022,San Francisco,ora.jensen@company.com
+E119,Pete Mendez,Data Science,MLOps Lead,142000,2020-05-04,,ACTIVE,E014,Austin,pete.mendez@company.com
+E120,Quinn Tran,Engineering,Software Engineer,89000,2023-01-31,,ACTIVE,E001,New York,quinn.tran@company.com
+E121,Ruth Castillo,Finance,Grants Manager,76000,2021-09-06,,ACTIVE,E017,Chicago,ruth.castillo@company.com
+E122,Sean Gomez,Marketing,Video Producer,71000,2022-03-21,,ACTIVE,E031,Austin,sean.gomez@company.com
+E123,Tess Shaw,Sales,Sales Director,145000,2017-07-17,,ACTIVE,E022,San Francisco,tess.shaw@company.com
+E124,Ugo Nguyen,Engineering,Data Engineer,117000,2021-05-31,,ACTIVE,E010,New York,ugo.nguyen@company.com
+E125,Vera Ramos,HR,Workforce Planner,78000,2021-11-08,,ACTIVE,E020,Chicago,vera.ramos@company.com
+T001,Mark Spencer,Engineering,Software Engineer,88000,2020-01-10,2023-06-30,TERMINATED,E001,New York,mark.spencer@company.com
+T002,Lucy Huang,Sales,Sales Rep,62000,2021-03-01,2023-09-15,TERMINATED,E006,San Francisco,lucy.huang@company.com
+T003,Tom Brennan,HR,HR Generalist,68000,2019-11-15,2022-12-31,TERMINATED,E003,Chicago,tom.brennan@company.com
+T004,Amy Dalton,Finance,Analyst,72000,2020-08-01,2023-11-30,TERMINATED,E021,Chicago,amy.dalton@company.com
+T005,Jake Morton,Data Science,Data Analyst,80000,2021-02-22,2024-01-15,TERMINATED,E014,Austin,jake.morton@company.com
