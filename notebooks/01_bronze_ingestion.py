@@ -24,7 +24,7 @@ logger = logging.getLogger("bronze_ingestion")
 
 # COMMAND ----------
 
-dbutils.widgets.text("source_path", "/dbfs/FileStore/emp_usecase/raw/employees/", "Source Path")
+dbutils.widgets.text("source_path", "/Volumes/workspace/employee_poc/raw_data/", "Source Path")
 dbutils.widgets.text("run_id", "", "Pipeline Run ID")
 
 SOURCE_PATH   = dbutils.widgets.get("source_path")
